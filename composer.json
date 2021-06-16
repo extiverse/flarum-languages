@@ -1,0 +1,18 @@
+{
+    "name": "extiverse/flarum-languages",
+    "description": "All Flarum Languages.",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "v1.0.2",
+        "flarum-lang/sinhala": "*",
+        "flarum-lang/dutch": "*",
+        "flarum-lang/swedish": "*",
+        "flarum-lang/brazilian": "*",
+        "flarum-lang/russian": "*",
+        "flarum-lang/turkish": "*",
+        "flarum-lang/italian": "*",
+        "flarum-lang/slovak": "*",
+        "flarum-lang/chinese-simplified": "*",
+        "flarum-lang/french": "*"
+    }
+}
