@@ -3,16 +3,21 @@
     "description": "All Flarum Languages.",
     "license": "MIT",
     "require": {
-        "flarum/core": "v1.0.2",
+        "flarum/core": "v1.0.4",
+        "flarum-lang/hindi": "*",
+        "flarum-lang/tamil": "*",
         "flarum-lang/sinhala": "*",
         "flarum-lang/dutch": "*",
         "flarum-lang/swedish": "*",
         "flarum-lang/brazilian": "*",
         "flarum-lang/russian": "*",
         "flarum-lang/turkish": "*",
+        "flarum-lang/romanian": "*",
         "flarum-lang/italian": "*",
+        "flarum-lang/spanish": "*",
         "flarum-lang/slovak": "*",
         "flarum-lang/chinese-simplified": "*",
+        "flarum-lang/german": "*",
         "flarum-lang/french": "*"
     }
 }
