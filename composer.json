@@ -4,6 +4,12 @@
     "license": "MIT",
     "require": {
         "flarum/core": "v1.0.4",
+        "flarum-lang/thai": "*",
+        "flarum-lang/portuguese": "*",
+        "flarum-lang/hungarian": "*",
+        "flarum-lang/malaysian": "*",
+        "flarum-lang/persian": "*",
+        "flarum-lang/malayalam": "*",
         "flarum-lang/hindi": "*",
         "flarum-lang/tamil": "*",
         "flarum-lang/sinhala": "*",
