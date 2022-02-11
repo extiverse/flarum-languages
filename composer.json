@@ -4,7 +4,6 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.2.0",
-        "flarum-lang/azerbaijani": "*",
         "flarum-lang/brazilian": "*",
         "flarum-lang/chinese-simplified": "*",
         "flarum-lang/danish": "*",
