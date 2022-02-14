@@ -16,6 +16,7 @@
         "flarum-lang/hungarian": "*",
         "flarum-lang/italian": "*",
         "flarum-lang/japanese": "*",
+        "flarum-lang/korean": "*",
         "flarum-lang/malayalam": "*",
         "flarum-lang/persian": "*",
         "flarum-lang/portuguese": "*",
@@ -27,6 +28,8 @@
         "flarum-lang/swedish": "*",
         "flarum-lang/tamil": "*",
         "flarum-lang/thai": "*",
-        "flarum-lang/uzbek": "*"
+        "flarum-lang/turkish": "*",
+        "flarum-lang/uzbek": "*",
+        "flarum-lang/vietnamese": "*"
     }
 }
