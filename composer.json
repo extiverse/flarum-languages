@@ -5,9 +5,11 @@
     "require": {
         "flarum/core": "^v1.2.0",
         "flarum-lang/azerbaijani": "*",
+        "flarum-lang/brazilian": "*",
         "flarum-lang/chinese-simplified": "*",
         "flarum-lang/danish": "*",
         "flarum-lang/dutch": "*",
+        "flarum-lang/finnish": "*",
         "flarum-lang/french": "*",
         "flarum-lang/german": "*",
         "flarum-lang/hindi": "*",
@@ -16,6 +18,7 @@
         "flarum-lang/japanese": "*",
         "flarum-lang/korean": "*",
         "flarum-lang/malayalam": "*",
+        "flarum-lang/persian": "*",
         "flarum-lang/portuguese": "*",
         "flarum-lang/romanian": "*",
         "flarum-lang/russian": "*",
@@ -25,6 +28,7 @@
         "flarum-lang/swedish": "*",
         "flarum-lang/tamil": "*",
         "flarum-lang/thai": "*",
+        "flarum-lang/turkish": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
     }
