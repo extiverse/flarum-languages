@@ -20,6 +20,7 @@
         "flarum-lang/korean": "*",
         "flarum-lang/lithuanian": "*",
         "flarum-lang/malayalam": "*",
+        "flarum-lang/persian": "*",
         "flarum-lang/portuguese": "*",
         "flarum-lang/romanian": "*",
         "flarum-lang/russian": "*",
@@ -29,6 +30,7 @@
         "flarum-lang/swedish": "*",
         "flarum-lang/tamil": "*",
         "flarum-lang/thai": "*",
+        "flarum-lang/turkish": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
     }
