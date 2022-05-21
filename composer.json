@@ -5,7 +5,6 @@
     "require": {
         "flarum/core": "^v1.3.0",
         "flarum-lang/azerbaijani": "*",
-        "flarum-lang/chinese-simplified": "*",
         "flarum-lang/danish": "*",
         "flarum-lang/dutch": "*",
         "flarum-lang/finnish": "*",
