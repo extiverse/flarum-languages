@@ -23,12 +23,14 @@
         "flarum-lang/persian": "*",
         "flarum-lang/portuguese": "*",
         "flarum-lang/romanian": "*",
+        "flarum-lang/russian": "*",
         "flarum-lang/sinhala": "*",
         "flarum-lang/slovak": "*",
         "flarum-lang/spanish": "*",
         "flarum-lang/swedish": "*",
         "flarum-lang/tamil": "*",
         "flarum-lang/thai": "*",
+        "flarum-lang/turkish": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
     }
