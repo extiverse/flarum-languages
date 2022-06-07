@@ -3,7 +3,7 @@
     "description": "All Flarum Languages.",
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.3.0",
+        "flarum/core": "^v1.3.1",
         "flarum-lang/azerbaijani": "*",
         "flarum-lang/brazilian": "*",
         "flarum-lang/chinese-simplified": "*",
@@ -21,7 +21,6 @@
         "flarum-lang/persian": "*",
         "flarum-lang/portuguese": "*",
         "flarum-lang/romanian": "*",
-        "flarum-lang/russian": "*",
         "flarum-lang/sinhala": "*",
         "flarum-lang/slovak": "*",
         "flarum-lang/spanish": "*",
