@@ -11,11 +11,14 @@
         "flarum-lang/chinese-simplified": "*",
         "flarum-lang/danish": "*",
         "flarum-lang/dutch": "*",
+        "flarum-lang/finnish": "*",
+        "flarum-lang/french": "*",
         "flarum-lang/georgian": "*",
         "flarum-lang/german": "*",
         "flarum-lang/hebrew": "*",
         "flarum-lang/hindi": "*",
         "flarum-lang/hungarian": "*",
+        "flarum-lang/italian": "*",
         "flarum-lang/japanese": "*",
         "flarum-lang/korean": "*",
         "flarum-lang/latvian": "*",
@@ -33,6 +36,7 @@
         "flarum-lang/tamil": "*",
         "flarum-lang/telugu": "*",
         "flarum-lang/thai": "*",
+        "flarum-lang/turkish": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
     }
