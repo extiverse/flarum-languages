@@ -9,7 +9,6 @@
         "flarum-lang/brazilian": "*",
         "flarum-lang/czech": "*",
         "flarum-lang/danish": "*",
-        "flarum-lang/dutch": "*",
         "flarum-lang/estonian": "*",
         "flarum-lang/finnish": "*",
         "flarum-lang/french": "*",
@@ -33,9 +32,7 @@
         "flarum-lang/spanish": "*",
         "flarum-lang/swedish": "*",
         "flarum-lang/tamil": "*",
-        "flarum-lang/telugu": "*",
         "flarum-lang/thai": "*",
-        "flarum-lang/turkish": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
     }
