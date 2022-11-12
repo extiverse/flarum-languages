@@ -36,7 +36,6 @@
         "flarum-lang/tamil": "*",
         "flarum-lang/telugu": "*",
         "flarum-lang/thai": "*",
-        "flarum-lang/uzbek": "*",
-        "flarum-lang/vietnamese": "*"
+        "flarum-lang/uzbek": "*"
     }
 }
