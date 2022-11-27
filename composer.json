@@ -8,6 +8,8 @@
         "flarum-lang/azerbaijani": "*",
         "flarum-lang/bengali": "*",
         "flarum-lang/brazilian": "*",
+        "flarum-lang/chinese-simplified": "*",
+        "flarum-lang/chinese-traditional": "*",
         "flarum-lang/czech": "*",
         "flarum-lang/danish": "*",
         "flarum-lang/dutch": "*",
@@ -38,6 +40,7 @@
         "flarum-lang/tamil": "*",
         "flarum-lang/telugu": "*",
         "flarum-lang/thai": "*",
+        "flarum-lang/turkish": "*",
         "flarum-lang/ukrainian": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*"
