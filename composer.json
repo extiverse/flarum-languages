@@ -3,7 +3,7 @@
     "description": "All Flarum Languages.",
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.8.0",
+        "flarum/core": "^v1.8.1",
         "flarum-lang/arabic": "*",
         "flarum-lang/asturian": "*",
         "flarum-lang/azerbaijani": "*",
