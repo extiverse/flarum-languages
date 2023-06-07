@@ -1,13 +1,6 @@
 {
     "name": "extiverse/flarum-languages",
     "description": "All Flarum Languages.",
-    "keywords": [
-        "language",
-        "locale",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.8.1",
@@ -30,7 +23,6 @@
         "flarum-lang/estonian": "*",
         "flarum-lang/filipino": "*",
         "flarum-lang/finnish": "*",
-        "flarum-lang/french": "*",
         "flarum-lang/galician": "*",
         "flarum-lang/georgian": "*",
         "flarum-lang/german": "*",
@@ -60,7 +52,6 @@
         "flarum-lang/occitan": "*",
         "flarum-lang/persian": "*",
         "flarum-lang/polish": "*",
-        "flarum-lang/portuguese": "*",
         "flarum-lang/punjabi": "*",
         "flarum-lang/romanian": "*",
         "flarum-lang/russian": "*",
