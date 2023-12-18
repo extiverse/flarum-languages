@@ -57,6 +57,7 @@
         "flarum-lang/norwegian-nynorsk": "*",
         "flarum-lang/occitan": "*",
         "flarum-lang/persian": "*",
+        "flarum-lang/polish": "*",
         "flarum-lang/portuguese": "*",
         "flarum-lang/punjabi": "*",
         "flarum-lang/romanian": "*",
@@ -77,7 +78,9 @@
         "flarum-lang/toki-pona": "*",
         "flarum-lang/turkish": "*",
         "flarum-lang/turkmen": "*",
+        "flarum-lang/ukrainian": "*",
         "flarum-lang/urdu": "*",
+        "flarum-lang/uyghur": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*",
         "flarum-lang/welsh": "*"
