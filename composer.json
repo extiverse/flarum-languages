@@ -27,6 +27,8 @@
         "flarum-lang/esperanto": "*",
         "flarum-lang/estonian": "*",
         "flarum-lang/filipino": "*",
+        "flarum-lang/finnish": "*",
+        "flarum-lang/french": "*",
         "flarum-lang/galician": "*",
         "flarum-lang/georgian": "*",
         "flarum-lang/german": "*",
@@ -78,6 +80,7 @@
         "flarum-lang/turkmen": "*",
         "flarum-lang/ukrainian": "*",
         "flarum-lang/urdu": "*",
+        "flarum-lang/uyghur": "*",
         "flarum-lang/uzbek": "*",
         "flarum-lang/vietnamese": "*",
         "flarum-lang/welsh": "*"
